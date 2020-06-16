@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     # Third party apps
     'django_extensions',
+    'django_seed',
     'rest_framework',
 
     # My apps
